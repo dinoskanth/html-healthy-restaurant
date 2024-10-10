@@ -1,0 +1,53 @@
+body {
+    background-color: #F2EED7;
+}
+
+h1 {
+    color: #626F47;
+    font-family: "Dancing Script", cursive;
+}
+
+h2 {
+    color: #626F47;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    color: black;
+}
+
+h3 {
+    color: white;
+}
+
+#card_back1 {
+    background-color: #F3C623;
+}
+
+#card_back2 {
+    background-color: #60A04C;
+}
+
+#card_back3 {
+    background-color: #CB6040;
+}
+
+#card_back4 {
+    background-color: #72BF78;
+}
+
+#card_back5 {
+    background-color: #FF885B;
+}
+
+.card {
+    margin-bottom: 25px !important;
+}
+
+.img-fluid {
+    height: 200px;
+}
+
+#footer_para {
+    text-align: center;
+}
